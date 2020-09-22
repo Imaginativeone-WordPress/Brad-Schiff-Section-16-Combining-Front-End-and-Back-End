@@ -1,0 +1,8 @@
+- [ ] Section 16: Combining Front-End & Back-End 0/7 | 1hr 37min
+  - [ ] 73. 3 Column Layout for Search Overlay 20min
+  - [ ] 74. Custom Layout & JSON based on Post Type 20min
+  - [ ] 75. Quick Note About The Next Lesson 1min
+  - [ ] 76. Search Logic That's Aware of Relationships 16min
+  - [ ] 77. Search Logic That's Aware of Relationships (Part 2) 20min
+  - [ ] 78. Completing Our Search Overlay 14min
+  - [ ] 79. jQuery Free Live Search 7min
